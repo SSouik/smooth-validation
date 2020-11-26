@@ -1,0 +1,18 @@
+{
+  "name": "smooth-validation",
+  "version": "1.0.0",
+  "description": "Simple and intuitive input validation library for JavaScript/TypeScript projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Write some tests\""
+  },
+  "keywords": [
+    "validation",
+    "typescript",
+    "input-validation",
+    "form-validation",
+    "form"
+  ],
+  "author": "Samuel Souik <samuel.souik@gmail.com>",
+  "license": "MIT"
+}
